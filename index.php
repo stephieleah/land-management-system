@@ -34,7 +34,7 @@
 
 <body>
 
-<?php include 'header.php'; ?>
+<?php include 'includes/header.php'; ?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero">
