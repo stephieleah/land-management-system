@@ -1,4 +1,4 @@
- 
+<?php include 'includes/header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,7 +34,7 @@
 
 <body>
 
-<?php include 'includes/header.php'; ?>
+
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero">
@@ -45,7 +45,7 @@
           <div class="col-lg-6 text-center">
             <h2 data-aos="fade-down">Welcome to <span>INNOBUILD</span></h2>
             <p data-aos="fade-up">Providing You with an Accurate, Relevant and Real-time Value to Your Property.</p>
-            <a data-aos="fade-up" data-aos-delay="200" href="user/user.php" class="btn-get-started">Explore...</a>
+            <a data-aos="fade-up" data-aos-delay="200" href="customer/select_land_site.php" class="btn-get-started">Explore...</a>
           </div>
         </div>
       </div>
